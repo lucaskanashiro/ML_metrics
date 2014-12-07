@@ -1,0 +1,15 @@
+Error matrix for the Decision Tree model on all-data-Java.csv [validate] (counts):
+
+      Predicted
+Actual     0     1
+     0   169   195
+     1    63 19949
+
+Error matrix for the Decision Tree model on all-data-Java.csv [validate] (proportions):
+
+      Predicted
+Actual    0    1 Error
+     0 0.01 0.01  0.54
+     1 0.00 0.98  0.00
+
+Overall error: 0.01266196, Averaged class error: 0.140616

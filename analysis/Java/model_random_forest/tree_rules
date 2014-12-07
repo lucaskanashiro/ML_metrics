@@ -1,0 +1,23 @@
+Tree as rules: 
+
+ Rule number: 7 [good_design=1 cover=36064 (40%) prob=1.00]
+   R10_loc< 2.402
+   R10_sc< 1.332
+
+ Rule number: 5 [good_design=1 cover=3040 (3%) prob=0.95]
+   R10_loc>=2.402
+   R10_sc< 1.332
+
+ Rule number: 6 [good_design=1 cover=2634 (3%) prob=0.91]
+   R10_loc< 2.402
+   R10_sc>=1.332
+
+ Rule number: 9 [good_design=1 cover=1271 (1%) prob=0.64]
+   R10_loc>=2.402
+   R10_sc>=1.332
+   R10_loc< 2.733
+
+ Rule number: 8 [good_design=0 cover=1113 (1%) prob=0.28]
+   R10_loc>=2.402
+   R10_sc>=1.332
+   R10_loc>=2.733

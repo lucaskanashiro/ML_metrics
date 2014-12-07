@@ -1,0 +1,15 @@
+Error matrix for the Decision Tree model on all-data-C.csv [validate] (counts):
+
+      Predicted
+Actual     0     1
+     0  1558   439
+     1   336 20335
+
+Error matrix for the Decision Tree model on all-data-C.csv [validate] (proportions):
+
+      Predicted
+Actual    0    1 Error
+     0 0.07 0.02  0.22
+     1 0.01 0.90  0.02
+
+Overall error: 0.03418917, Averaged class error: 0.09926725

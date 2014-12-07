@@ -1,0 +1,18 @@
+Tree as rules: 
+
+ Rule number: 3 [good_design=1 cover=65394 (83%) prob=0.99]
+   R10_loc< 2.658
+
+ Rule number: 11 [good_design=1 cover=4858 (6%) prob=0.75]
+   R10_loc>=2.658
+   R10_rfc< 2.183
+   R10_npm< 1.47
+
+ Rule number: 10 [good_design=0 cover=1615 (2%) prob=0.45]
+   R10_loc>=2.658
+   R10_rfc< 2.183
+   R10_npm>=1.47
+
+ Rule number: 4 [good_design=0 cover=7016 (9%) prob=0.12]
+   R10_loc>=2.658
+   R10_rfc>=2.183

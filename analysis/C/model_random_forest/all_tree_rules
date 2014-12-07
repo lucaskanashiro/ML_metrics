@@ -1,0 +1,73 @@
+Tree as rules: 
+
+ Rule number: 7 [good_design=1 cover=42764 (44%) prob=0.99]
+   R10_loc< 2.658
+   R10_sc< 1.889
+
+ Rule number: 23 [good_design=1 cover=3043 (3%) prob=0.87]
+   R10_loc>=2.658
+   R10_rfc< 2.183
+   R10_sc< 1.889
+   R10_noa< 1.47
+
+ Rule number: 13 [good_design=1 cover=1261 (1%) prob=0.87]
+   R10_loc< 2.658
+   R10_sc>=1.889
+   R10_loc< 2.513
+
+ Rule number: 79 [good_design=1 cover=497 (1%) prob=0.76]
+   R10_loc>=2.658
+   R10_rfc>=2.183
+   R10_sc< 1.889
+   R10_noa< 1.47
+   R10_cbo< 0.9771
+   R10_loc< 3.008
+
+ Rule number: 25 [good_design=1 cover=308 (0%) prob=0.56]
+   R10_loc< 2.658
+   R10_sc>=1.889
+   R10_loc>=2.513
+   R10_acc< 0.8741
+
+ Rule number: 22 [good_design=0 cover=467 (0%) prob=0.44]
+   R10_loc>=2.658
+   R10_rfc< 2.183
+   R10_sc< 1.889
+   R10_noa>=1.47
+
+ Rule number: 78 [good_design=0 cover=424 (0%) prob=0.26]
+   R10_loc>=2.658
+   R10_rfc>=2.183
+   R10_sc< 1.889
+   R10_noa< 1.47
+   R10_cbo< 0.9771
+   R10_loc>=3.008
+
+ Rule number: 10 [good_design=0 cover=1747 (2%) prob=0.20]
+   R10_loc>=2.658
+   R10_rfc< 2.183
+   R10_sc>=1.889
+
+ Rule number: 24 [good_design=0 cover=206 (0%) prob=0.10]
+   R10_loc< 2.658
+   R10_sc>=1.889
+   R10_loc>=2.513
+   R10_acc>=0.8741
+
+ Rule number: 38 [good_design=0 cover=591 (1%) prob=0.09]
+   R10_loc>=2.658
+   R10_rfc>=2.183
+   R10_sc< 1.889
+   R10_noa< 1.47
+   R10_cbo>=0.9771
+
+ Rule number: 18 [good_design=0 cover=1257 (1%) prob=0.04]
+   R10_loc>=2.658
+   R10_rfc>=2.183
+   R10_sc< 1.889
+   R10_noa>=1.47
+
+ Rule number: 8 [good_design=0 cover=3825 (4%) prob=0.00]
+   R10_loc>=2.658
+   R10_rfc>=2.183
+   R10_sc>=1.889
